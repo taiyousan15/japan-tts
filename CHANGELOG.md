@@ -1,6 +1,19 @@
 # Changelog
 
-All notable changes to japan-tts skill.
+All notable changes to Interactive Video Platform.
+
+## [1.1.0] - 2026-02-07
+
+### Changed
+- **リポジトリ名変更**: `japan-tts` → `interactive-video-platform`
+- **SKILL.md更新**: インタラクティブ動画プラットフォーム全体を反映
+- **アーキテクチャ図追加**: 4層構造（Content/Media/Player/Deployment）
+
+### Added
+- 10パターンVSL構造の説明
+- 分岐ロジック（Branch Structure）図
+- デプロイ手順（Vercel）
+- 品質検証（Playwright + Agentic Vision）
 
 ## [1.0.0] - 2026-02-07
 
